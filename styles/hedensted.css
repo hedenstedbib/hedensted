@@ -1,0 +1,16 @@
+/* sitename */
+#site-name {
+    text-indent: -9999em; 
+    margin: 0px 17px 0 830px; 
+    padding:9px 0 0 0; 
+    height:30px;
+    }
+    
+#site-name a{
+    height:30px; 
+    width:312px; 
+    display: block; 
+    overflow:hidden; 
+    background: url(../images/logo.png) no-repeat scroll 0 0 transparent;
+    }
+
